@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @knnfmx
+<h1 align='center'> :wave: Howdy, y'all. Welcome to my GitHub profile!</h1>
+
+## &#x270d; My name is Anton and I'm a Front-end developer from Belarus, living in Minsk, and currently working as a freelancer.
+
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-knnfmx/knnfmx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

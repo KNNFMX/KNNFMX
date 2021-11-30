@@ -76,5 +76,5 @@ My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/153184943
   <img src="assets/wave-hand.gif" width="30px">
 </h2>
 <p align="center">
-  <img width="150" src="assets/cyberpunk-glitch.gif" style="border-radius:5px">
+  <img width="300" src="assets/cyberpunk-glitch.gif" style="border-radius:5px">
 </p>

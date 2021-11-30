@@ -1,15 +1,18 @@
-[![Header](https://raw.githubusercontent.com/knnfmx/knnfmx/main/assets/header.gif "Header")](#)
+[![Header](assets/header.gif "Header")](#)
 
 <h1 align='center'>Howdy, y'all  :wave: . Welcome to my GitHub profile!</h1>
 
-## &#x270d; Little about me
+## &#x270d; Little about me 
 
-My name is Anton. I'm a Front-end developer from Belarus, living in Minsk, and currently working as a freelancer. I can both code and design the graphic. I love programming, exploring, and learning about new things, and am proud of my results.
 
-## 🔧 Technologies & Tools
+My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">. I'm a Front-end developer from Belarus, living in Minsk, and currently working as a freelancer. I can both code and design the graphic. I love programming, exploring, and learning about new things, and am proud of my results. I'm also interested in 3D graphics, IoT, game design, and I like to DIY projects with Raspberry Pi.
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technologies & Tools
 
 
 ### Main Stack:
+
+
 👨‍🎓 I’m currently learning JavaScript(ES6+), ReactJS. And I just started learning Python.
 
 
@@ -17,6 +20,7 @@ My name is Anton. I'm a Front-end developer from Belarus, living in Minsk, and c
 ![html](https://img.shields.io/badge/-html5-d7f100?style=for-the-badge&logo=html5&logoColor=0d1117)
 ![css](https://img.shields.io/badge/-css3-d7f100?style=for-the-badge&logo=css3&logoColor=0d1117)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-00bbb8?style=for-the-badge&logo=React&logoColor=0d1117)
+
 
 <p>
   <a href="https://github.com/knnfmx">
@@ -67,6 +71,12 @@ My name is Anton. I'm a Front-end developer from Belarus, living in Minsk, and c
 </details>
 
 
+  
+
 <h2 align="center">If you liked my profile, then you can put a star ⭐ and subscribe to my updates ❤️<br> see ya! 
-  <img src="https://raw.githubusercontent.com/knnfmx/knnfmx/main/assets/wave-hand.gif" width="30px">
+  <img src="assets/wave-hand.gif" width="30px">
 </h2>
+
+<p align="center">
+  <img width="250" src="assets/cyberpunk-glitch.gif">
+</p>

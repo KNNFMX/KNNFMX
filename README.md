@@ -60,6 +60,7 @@ My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/153184943
   </p>
 </details>
 
+
 <details>
   <summary> &#x1f4c8; GitHub Stats </summary>
   <br>
@@ -71,12 +72,9 @@ My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/153184943
 </details>
 
 
-  
-
 <h2 align="center">If you liked my profile, then you can put a star ⭐ and subscribe to my updates ❤️<br> see ya! 
   <img src="assets/wave-hand.gif" width="30px">
 </h2>
-
 <p align="center">
-  <img width="250" src="assets/cyberpunk-glitch.gif">
+  <img width="150" src="assets/cyberpunk-glitch.gif" style="border-radius:5px">
 </p>

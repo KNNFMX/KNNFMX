@@ -45,11 +45,14 @@ My name is Anton. I'm a Front-end developer from Belarus, living in Minsk, and c
 <summary> 💡 Working on </summary>
 <br>
 <p align="center">
-<a href="#">
+<a href="https://github.com/knnfmx/south-park-phone-destroyer">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=knnfmx&repo=south-park-phone-destroyer&show_owner=true&theme=react" />
 </a>
 </p>
 </details>
+
+
+[![Knnfmx GitHub stats](https://github-readme-stats.vercel.app/api?username=knnfmx&count_private=true&show_icons=true&theme=react)](https://github.com/knnfmx)
 
 
 <h2 align="center">If you liked my profile, then you can put a star ⭐ and subscribe to my updates ❤️<br> see ya! <img src="https://raw.githubusercontent.com/knnfmx/knnfmx/master/wave-hand.gif" width="30px"></h2>

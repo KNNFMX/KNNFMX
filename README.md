@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/knnfmx/knnfmx/main/assets/header.gif "Header")](https://knnfmx.github.io.cv)
+[![Header](https://raw.githubusercontent.com/knnfmx/knnfmx/main/assets/header.gif "Header")](https://knnfmx.github.io/cv)
 
 <h1 align='center'> :wave: Howdy, y'all. Welcome to my GitHub profile!</h1>
 

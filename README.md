@@ -9,7 +9,7 @@ My name is Anton. I'm a Front-end developer from Belarus, living in Minsk, and c
 ## 🔧 Technologies & Tools
 
 
-### Main Stack
+### Main Stack:
 👨‍🎓 I’m currently learning JavaScript(ES6+), ReactJS.
 
 
@@ -19,7 +19,7 @@ My name is Anton. I'm a Front-end developer from Belarus, living in Minsk, and c
 ![ReactJS](https://img.shields.io/badge/-ReactJS-00bbb8?style=for-the-badge&logo=React&logoColor=0d1117)
 
 
-### Graphic skills
+### Graphic skills:
 
 
 ![Figma](https://img.shields.io/badge/-figma-0d1117?style=for-the-badge&logo=Figma)
@@ -31,10 +31,21 @@ My name is Anton. I'm a Front-end developer from Belarus, living in Minsk, and c
 ## 🖖 You can find me
 
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-d7f100?style=for-the-badge&logo=linkedIn&logoColor=0d1117)
-![Codewars](https://img.shields.io/badge/-Codewars-00bbb8?style=for-the-badge&logo=codewars&logoColor=0d1117)
-![Instagram](https://img.shields.io/badge/-Instagram-00bbb8?style=for-the-badge&logo=instagram&logoColor=0d1117)
-![Facebook](https://img.shields.io/badge/-Facebook-00bbb8?style=for-the-badge&logo=facebook&logoColor=0d1117)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-d7f100?style=for-the-badge&logo=linkedIn&logoColor=0d1117)](https://www.linkedin.com/in/anton-vasilyuk-283916177/)
+[![Codewars](https://img.shields.io/badge/-Codewars-d7f100?style=for-the-badge&logo=codewars&logoColor=0d1117)](https://www.codewars.com/users/knnfmx)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-d7f100?style=for-the-badge&logo=stackoverflow&logoColor=0d1117)](https://stackexchange.com/users/20613866/kennyfmx)
+[![Instagram](https://img.shields.io/badge/-Instagram-00bbb8?style=for-the-badge&logo=instagram&logoColor=0d1117)](https://instagram.com/kennyfmx)
+[![Facebook](https://img.shields.io/badge/-Facebook-00bbb8?style=for-the-badge&logo=facebook&logoColor=0d1117)](https://www.facebook.com/Kennyfmx)
 
 
-## 📧 Mail me
+<a href="mailto:fmxhighlife@gmail.com">fmxhighlife@gmail.com</a>
+
+<details>
+<summary> Working on </summary>
+<br>
+<p align="center">
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=knnfmx&repo=south-park-phone-destroyer&show_owner=true&theme=react" />
+</a>
+</p>
+</details>

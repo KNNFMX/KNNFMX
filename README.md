@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/knnfmx/knnfmx/main/assets/header.gif "Header")](https://knnfmx.github.io.cv)
+
 <h1 align='center'> :wave: Howdy, y'all. Welcome to my GitHub profile!</h1>
 
 ## &#x270d; My name is Anton and I'm a Front-end developer from Belarus, living in Minsk, and currently working as a freelancer.

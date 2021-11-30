@@ -10,7 +10,7 @@ My name is Anton. I'm a Front-end developer from Belarus, living in Minsk, and c
 
 
 ### Main Stack:
-👨‍🎓 I’m currently learning JavaScript(ES6+), ReactJS.
+👨‍🎓 I’m currently learning JavaScript(ES6+), ReactJS. 
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-d7f100?style=for-the-badge&logo=javascript&logoColor=0d1117)
@@ -28,7 +28,7 @@ My name is Anton. I'm a Front-end developer from Belarus, living in Minsk, and c
 
 
 
-## 🖖 You can find me
+## 🖖 You can find me around the web
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-d7f100?style=for-the-badge&logo=linkedIn&logoColor=0d1117)](https://www.linkedin.com/in/anton-vasilyuk-283916177/)
@@ -40,8 +40,9 @@ My name is Anton. I'm a Front-end developer from Belarus, living in Minsk, and c
 
 <a href="mailto:fmxhighlife@gmail.com">fmxhighlife@gmail.com</a>
 
+
 <details>
-<summary> Working on </summary>
+<summary> 💡 Working on </summary>
 <br>
 <p align="center">
 <a href="#">
@@ -49,3 +50,6 @@ My name is Anton. I'm a Front-end developer from Belarus, living in Minsk, and c
 </a>
 </p>
 </details>
+
+
+<h2 align="center">If you liked my profile, then you can put a star ⭐ and subscribe to my updates ❤️<br> see ya!</h2>

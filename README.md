@@ -68,5 +68,5 @@ My name is Anton. I'm a Front-end developer from Belarus, living in Minsk, and c
 
 
 <h2 align="center">If you liked my profile, then you can put a star ⭐ and subscribe to my updates ❤️<br> see ya! 
-  <img src="https://raw.githubusercontent.com/knnfmx/knnfmx/master/wave-hand.gif" width="30px">
+  <img src="https://raw.githubusercontent.com/knnfmx/knnfmx/main/assets/wave-hand.gif" width="30px">
 </h2>

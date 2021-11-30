@@ -10,13 +10,19 @@ My name is Anton. I'm a Front-end developer from Belarus, living in Minsk, and c
 
 
 ### Main Stack:
-👨‍🎓 I’m currently learning JavaScript(ES6+), ReactJS. 
+👨‍🎓 I’m currently learning JavaScript(ES6+), ReactJS. And I just started learning Python.
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-d7f100?style=for-the-badge&logo=javascript&logoColor=0d1117)
 ![html](https://img.shields.io/badge/-html5-d7f100?style=for-the-badge&logo=html5&logoColor=0d1117)
 ![css](https://img.shields.io/badge/-css3-d7f100?style=for-the-badge&logo=css3&logoColor=0d1117)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-00bbb8?style=for-the-badge&logo=React&logoColor=0d1117)
+
+<p align="center">
+  <a href="https://github.com/knnfmx">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knnfmx&layout=compact&theme=react" />
+  </a>
+</p>
 
 
 ### Graphic skills:
@@ -25,7 +31,6 @@ My name is Anton. I'm a Front-end developer from Belarus, living in Minsk, and c
 ![Figma](https://img.shields.io/badge/-figma-0d1117?style=for-the-badge&logo=Figma)
 ![Photoshop](https://img.shields.io/badge/-PhotoShop-0d1117?style=for-the-badge&logo=adobePhotoShop)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-0d1117?style=for-the-badge&logo=adobeIllustrator)
-
 
 
 ## 🖖 You can find me around the web
@@ -42,17 +47,26 @@ My name is Anton. I'm a Front-end developer from Belarus, living in Minsk, and c
 
 
 <details>
-<summary> 💡 Working on </summary>
-<br>
-<p align="center">
-<a href="https://github.com/knnfmx/south-park-phone-destroyer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=knnfmx&repo=south-park-phone-destroyer&show_owner=true&theme=react" />
-</a>
-</p>
+  <summary> 💡 Working on </summary>
+  <br>
+  <p align="center">
+    <a href="https://github.com/knnfmx/south-park-phone-destroyer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=knnfmx&repo=south-park-phone-destroyer&show_owner=true&theme=react" />
+    </a>
+  </p>
+</details>
+
+<details>
+  <summary> &#x1f4c8; GitHub Stats </summary>
+  <br>
+  <p align="center">
+    <a href="https://github.com/knnfmx">
+      <img src="https://github-readme-stats.vercel.app/api?username=knnfmx&count_private=true&show_icons=true&theme=react" />
+    </a>
+  </p>
 </details>
 
 
-[![Knnfmx GitHub stats](https://github-readme-stats.vercel.app/api?username=knnfmx&count_private=true&show_icons=true&theme=react)](https://github.com/knnfmx)
-
-
-<h2 align="center">If you liked my profile, then you can put a star ⭐ and subscribe to my updates ❤️<br> see ya! <img src="https://raw.githubusercontent.com/knnfmx/knnfmx/master/wave-hand.gif" width="30px"></h2>
+<h2 align="center">If you liked my profile, then you can put a star ⭐ and subscribe to my updates ❤️<br> see ya! 
+  <img src="https://raw.githubusercontent.com/knnfmx/knnfmx/master/wave-hand.gif" width="30px">
+</h2>

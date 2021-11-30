@@ -18,7 +18,7 @@ My name is Anton. I'm a Front-end developer from Belarus, living in Minsk, and c
 ![css](https://img.shields.io/badge/-css3-d7f100?style=for-the-badge&logo=css3&logoColor=0d1117)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-00bbb8?style=for-the-badge&logo=React&logoColor=0d1117)
 
-<p align="center">
+<p>
   <a href="https://github.com/knnfmx">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knnfmx&layout=compact&theme=react" />
   </a>

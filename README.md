@@ -24,7 +24,7 @@ My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/153184943
 
 <p>
   <a href="https://github.com/knnfmx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knnfmx&layout=compact&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knnfmx&layout=compact&theme=highcontrast" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@ My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/153184943
   <br>
   <p align="center">
     <a href="https://github.com/knnfmx/south-park-phone-destroyer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=knnfmx&repo=south-park-phone-destroyer&show_owner=true&theme=react" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=knnfmx&repo=south-park-phone-destroyer&show_owner=true&theme=highcontrast" />
     </a>
   </p>
 </details>
@@ -66,7 +66,7 @@ My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/153184943
   <br>
   <p align="center">
     <a href="https://github.com/knnfmx">
-      <img src="https://github-readme-stats.vercel.app/api?username=knnfmx&count_private=true&show_icons=true&theme=react" />
+      <img src="https://github-readme-stats.vercel.app/api?username=knnfmx&count_private=true&show_icons=true&theme=highcontrast" />
     </a>
   </p>
 </details>

@@ -10,7 +10,7 @@ My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/153184943
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technologies & Tools
 
 
-### Main Stack:
+### Main stack:
 
 
 👨‍🎓 I’m currently learning JavaScript(ES6+), ReactJS. And I just started learning Python.
@@ -40,8 +40,8 @@ My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/153184943
 ## 🖖 You can find me around the web
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-d7f100?style=for-the-badge&logo=linkedIn&logoColor=0d1117)](https://www.linkedin.com/in/anton-vasilyuk-283916177/)
 [![Codewars](https://img.shields.io/badge/-Codewars-d7f100?style=for-the-badge&logo=codewars&logoColor=0d1117)](https://www.codewars.com/users/knnfmx)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-d7f100?style=for-the-badge&logo=linkedIn&logoColor=0d1117)](https://www.linkedin.com/in/anton-vasilyuk-283916177/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-d7f100?style=for-the-badge&logo=stackoverflow&logoColor=0d1117)](https://stackexchange.com/users/20613866/kennyfmx)
 [![Instagram](https://img.shields.io/badge/-Instagram-00bbb8?style=for-the-badge&logo=instagram&logoColor=0d1117)](https://instagram.com/kennyfmx)
 [![Facebook](https://img.shields.io/badge/-Facebook-00bbb8?style=for-the-badge&logo=facebook&logoColor=0d1117)](https://www.facebook.com/Kennyfmx)
@@ -72,9 +72,16 @@ My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/153184943
 </details>
 
 
-<h2 align="center">If you liked my profile, then you can put a star ⭐ and subscribe to my updates ❤️<br> see ya! 
+### Other achievements:
+
+
+<img src="https://www.codewars.com/users/knnfmx/badges/small">
+
+
+<h2 align="center">If you liked ❤️ my profile, then you can put a star ⭐ and subscribe to my updates. <br> see ya! 
   <img src="assets/wave-hand.gif" width="30px">
 </h2>
 <p align="center">
   <img width="300" src="assets/cyberpunk-glitch.gif" style="border-radius:5px">
 </p>
+

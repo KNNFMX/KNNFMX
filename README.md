@@ -74,8 +74,9 @@ My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/153184943
 
 ### Other achievements:
 
-
-<img src="https://www.codewars.com/users/knnfmx/badges/small">
+<a href="https://www.codewars.com/users/knnfmx">
+  <img src="https://www.codewars.com/users/knnfmx/badges/small">
+</a>
 
 
 <h2 align="center">If you liked ❤️ my profile, then you can put a star ⭐ and subscribe to my updates. <br> see ya! 

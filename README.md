@@ -41,10 +41,12 @@ My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/153184943
 
 
 [![Codewars](https://img.shields.io/badge/-Codewars-d7f100?style=for-the-badge&logo=codewars&logoColor=0d1117)](https://www.codewars.com/users/knnfmx)
+[![HackerRank](https://img.shields.io/badge/-hackerrank-d7f100?style=for-the-badge&logo=hackerrank&logoColor=0d1117)](https://www.hackerrank.com/knnfmx)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-d7f100?style=for-the-badge&logo=linkedIn&logoColor=0d1117)](https://www.linkedin.com/in/anton-vasilyuk-283916177/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-d7f100?style=for-the-badge&logo=stackoverflow&logoColor=0d1117)](https://stackexchange.com/users/20613866/kennyfmx)
 [![Instagram](https://img.shields.io/badge/-Instagram-00bbb8?style=for-the-badge&logo=instagram&logoColor=0d1117)](https://instagram.com/kennyfmx)
 [![Facebook](https://img.shields.io/badge/-Facebook-00bbb8?style=for-the-badge&logo=facebook&logoColor=0d1117)](https://www.facebook.com/Kennyfmx)
+[![VK](https://img.shields.io/badge/-vkontakte-00bbb8?style=for-the-badge&logo=vk&logoColor=0d1117)](https://vk.com/kennyfmx)
 
 
 <a href="mailto:fmxhighlife@gmail.com">fmxhighlife@gmail.com</a>

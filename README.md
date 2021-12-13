@@ -29,6 +29,15 @@ My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/153184943
 </p>
 
 
+### Extra skills:
+
+
+![gitbash](https://img.shields.io/badge/-Gitbash-0d1117?style=for-the-badge&logo=git&logoColor)
+![webpack](https://img.shields.io/badge/-webpack-0d1117?style=for-the-badge&logo=webpack&logoColor)
+![sass](https://img.shields.io/badge/-sass-0d1117?style=for-the-badge&logo=sass&logoColor)
+![less](https://img.shields.io/badge/-less-0d1117?style=for-the-badge&logo=less&logoColor)
+
+
 ### Graphic skills:
 
 

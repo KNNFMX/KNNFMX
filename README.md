@@ -1,4 +1,4 @@
-[![Header](assets/header.gif "Header")](#)
+[![Header](assets/header.gif "Header")](https://knnfmx.github.io/rsschool-cv)
 
 <h1 align='center'>Howdy, y'all  :wave: . Welcome to my GitHub profile!</h1>
 

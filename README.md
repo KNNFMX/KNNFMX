@@ -7,10 +7,10 @@
 
 My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">. I'm a Front-end developer from Belarus, living in Minsk, and currently working as a freelancer. I can both code and design the graphic. I love programming, exploring, and learning about new things, and am proud of my results. I'm also interested in 3D graphics, IoT, game design, and I like to DIY projects with Raspberry Pi.
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width:30px;"> Technologies & Tools
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Technologies & Tools
 
 
-### Main st
+### Main stack
 
 
 👨‍🎓 I’m currently learning JavaScript(ES6+), ReactJS. And I just started learning Python.
@@ -91,7 +91,7 @@ My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/153184943
 
 
 <h2 align="center">If you liked ❤️ my profile, then you can put a star ⭐ and subscribe to my updates. <br> see ya! 
-  <img src="assets/wave-hand.gif" style="width:30px;">
+  <img src="assets/wave-hand.gif" width="30px">
 </h2>
 <p align="center">
   <img width="300" src="assets/cyberpunk-glitch.gif" style="border-radius:5px">

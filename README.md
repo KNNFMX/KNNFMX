@@ -1,4 +1,4 @@
-<a href="https://knnfmx.github.io/rsschool-cv"> 
+<a href="https://knnfmx.github.io/rsschool-cv" target="_blank"> 
   <img src="assets/header.gif" alt="header photo" />
 </a>
 

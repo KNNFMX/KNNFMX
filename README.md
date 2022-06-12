@@ -1,6 +1,4 @@
-<a href="https://knnfmx.github.io/rsschool-cv" target="_blank"> 
-  <img src="assets/header.gif" alt="header photo" />
-</a>
+[![Header](assets/header.gif)](https://knnfmx.github.io/rsschool-cv)
 
 <h1 align='center'>Howdy, y'all  :wave: . Welcome to my GitHub profile!</h1>
 
@@ -88,7 +86,7 @@ My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/153184943
 ### Other achievements:
 
 <a href="https://www.codewars.com/users/knnfmx">
-  <img src="https://www.codewars.com/users/knnfmx/badges/small">
+  <img src="https://www.codewars.com/users/knnfmx/badges/small" alt="codewars badge">
 </a>
 
 

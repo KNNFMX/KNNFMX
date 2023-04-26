@@ -10,16 +10,18 @@ My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/153184943
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="cat at notebook" width="30"> Technologies & Tools
 
 
-### Main stack
+Main stack:
 
 
-👨‍🎓 I’m currently learning JavaScript(ES6+), ReactJS. And I just started learning Python.
+👨‍🎓 I’m currently practice JavaScript(ES6+), ReactJS, TypeScript. And some Python.
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-d7f100?style=for-the-badge&logo=javascript&logoColor=0d1117)
 ![html](https://img.shields.io/badge/-html5-d7f100?style=for-the-badge&logo=html5&logoColor=0d1117)
 ![css](https://img.shields.io/badge/-css3-d7f100?style=for-the-badge&logo=css3&logoColor=0d1117)
-![ReactJS](https://img.shields.io/badge/-ReactJS-00bbb8?style=for-the-badge&logo=React&logoColor=0d1117)
+![JavaScript](https://img.shields.io/badge/-JavaScript-d7f100?style=for-the-badge&logo=javascript&logoColor=0d1117)
+![TypeScript](https://img.shields.io/badge/-TypeScript-00bbb8?style=for-the-badge&logo=typescript&logoColor=0d1117)
+![ReactJS](https://img.shields.io/badge/-React-00bbb8?style=for-the-badge&logo=React&logoColor=0d1117)
+![NodeJS](https://img.shields.io/badge/-Node.JS-00bbb8?style=for-the-badge&logo=Node.js&logoColor=0d1117)
 
 
 <p>
@@ -51,18 +53,23 @@ My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/153184943
 
 [![Codewars](https://img.shields.io/badge/-Codewars-d7f100?style=for-the-badge&logo=codewars&logoColor=0d1117)](https://www.codewars.com/users/knnfmx)
 [![HackerRank](https://img.shields.io/badge/-hackerrank-d7f100?style=for-the-badge&logo=hackerrank&logoColor=0d1117)](https://www.hackerrank.com/knnfmx)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-d7f100?style=for-the-badge&logo=linkedIn&logoColor=0d1117)](https://www.linkedin.com/in/anton-vasilyuk-283916177/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-d7f100?style=for-the-badge&logo=linkedIn&logoColor=0d1117)](https://www.linkedin.com/in/knnfmx/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-d7f100?style=for-the-badge&logo=stackoverflow&logoColor=0d1117)](https://stackexchange.com/users/20613866/kennyfmx)
 [![Instagram](https://img.shields.io/badge/-Instagram-00bbb8?style=for-the-badge&logo=instagram&logoColor=0d1117)](https://instagram.com/kennyfmx)
 [![Facebook](https://img.shields.io/badge/-Facebook-00bbb8?style=for-the-badge&logo=facebook&logoColor=0d1117)](https://www.facebook.com/Kennyfmx)
 [![VK](https://img.shields.io/badge/-vkontakte-00bbb8?style=for-the-badge&logo=vk&logoColor=0d1117)](https://vk.com/kennyfmx)
 
 
-<a href="mailto:fmxhighlife@gmail.com">fmxhighlife@gmail.com</a>
+## I will be glad to offers for new experience. 
 
 
+<p>📧 My e-mail:
+  <a href="mailto:fmxhighlife@gmail.com">fmxhighlife@gmail.com</a>
+</p>
+
+## Additional Info
 <details>
-  <summary> 💡 Working on </summary>
+  <summary style="color: #00bbb8"> 💡 Working on </summary>
   <br>
   <p align="center">
     <a href="https://github.com/knnfmx/south-park-phone-destroyer">
@@ -73,7 +80,7 @@ My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/153184943
 
 
 <details>
-  <summary> &#x1f4c8; GitHub Stats </summary>
+  <summary style="color: #00bbb8"> &#x1f4c8; GitHub Stats </summary>
   <br>
   <p align="center">
     <a href="https://github.com/knnfmx">
@@ -90,7 +97,7 @@ My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/153184943
 </a>
 
 
-<h2 align="center">If you liked ❤️ my profile, then you can put a star ⭐ and subscribe to my updates. <br> see ya! 
+<h2 align="center" style="color: #00bbb8">If you liked ❤️ my profile, then you can put a star ⭐ and subscribe to my updates. <br> see ya! 
   <img src="assets/wave-hand.gif" alt="shake hand" width="30">
 </h2>
 <p align="center">

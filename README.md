@@ -5,7 +5,7 @@
 ## &#x270d; Little about me 
 
 
-My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="smile with sunglass" width="30">. I'm a Front-end developer from Belarus, living in Minsk, and currently working as a freelancer. I can both code and design the graphic. I love programming, exploring, and learning about new things, and am proud of my results. I'm also interested in 3D graphics, IoT, game design, and I like to DIY projects with Raspberry Pi.
+My name is Anton <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="smile with sunglass" width="30"><br> I'm a Front-end developer. I can both write clean code and design the graphic. I love programming, exploring, and learning about new things, and am proud of my results. And at the moment, working as a freelancer, I improve my level in various fields. I'm also interested in 3D graphics, IoT, Game dev, Web 3.0 and I like to do DIY projects with Raspberry Pi.
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="cat at notebook" width="30"> Technologies & Tools
 
@@ -48,27 +48,14 @@ Main stack:
 ![Illustrator](https://img.shields.io/badge/-Illustrator-0d1117?style=for-the-badge&logo=adobeIllustrator)
 
 
-## 🖖 You can find me around the web
+## I will be glad to offers for new experience:
 
+<p>📄 Current CV is available for
+  <a href="assets/CV-2023n.pdf" download style="color: #00bbb8"> download</a>
+</p> 
 
-[![Codewars](https://img.shields.io/badge/-Codewars-d7f100?style=for-the-badge&logo=codewars&logoColor=0d1117)](https://www.codewars.com/users/knnfmx)
-[![HackerRank](https://img.shields.io/badge/-hackerrank-d7f100?style=for-the-badge&logo=hackerrank&logoColor=0d1117)](https://www.hackerrank.com/knnfmx)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-d7f100?style=for-the-badge&logo=linkedIn&logoColor=0d1117)](https://www.linkedin.com/in/knnfmx/)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-d7f100?style=for-the-badge&logo=stackoverflow&logoColor=0d1117)](https://stackexchange.com/users/20613866/kennyfmx)
-[![Instagram](https://img.shields.io/badge/-Instagram-00bbb8?style=for-the-badge&logo=instagram&logoColor=0d1117)](https://instagram.com/kennyfmx)
-[![Facebook](https://img.shields.io/badge/-Facebook-00bbb8?style=for-the-badge&logo=facebook&logoColor=0d1117)](https://www.facebook.com/Kennyfmx)
-[![VK](https://img.shields.io/badge/-vkontakte-00bbb8?style=for-the-badge&logo=vk&logoColor=0d1117)](https://vk.com/kennyfmx)
-
-## My current CV is available for download.
-
-
-[CV](assets/CV-2023n.pdf)
-
-## I will be glad to offers for new experience. 
-
-
-<p>📧 My e-mail:
-  <a href="mailto:fmxhighlife@gmail.com">fmxhighlife@gmail.com</a>
+<p>📧 E-mail:
+  <a href="mailto:fmxhighlife@gmail.com" style="color: #00bbb8">fmxhighlife@gmail.com</a>
 </p>
 
 ## Additional Info
@@ -100,6 +87,16 @@ Main stack:
   <img src="https://www.codewars.com/users/knnfmx/badges/small" alt="codewars badge">
 </a>
 
+## 🖖 You can find me around the web
+
+
+[![Codewars](https://img.shields.io/badge/-Codewars-d7f100?style=for-the-badge&logo=codewars&logoColor=0d1117)](https://www.codewars.com/users/knnfmx)
+[![HackerRank](https://img.shields.io/badge/-hackerrank-d7f100?style=for-the-badge&logo=hackerrank&logoColor=0d1117)](https://www.hackerrank.com/knnfmx)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-d7f100?style=for-the-badge&logo=linkedIn&logoColor=0d1117)](https://www.linkedin.com/in/knnfmx/)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-d7f100?style=for-the-badge&logo=stackoverflow&logoColor=0d1117)](https://stackexchange.com/users/20613866/kennyfmx)
+[![Instagram](https://img.shields.io/badge/-Instagram-00bbb8?style=for-the-badge&logo=instagram&logoColor=0d1117)](https://instagram.com/kennyfmx)
+[![Facebook](https://img.shields.io/badge/-Facebook-00bbb8?style=for-the-badge&logo=facebook&logoColor=0d1117)](https://www.facebook.com/Kennyfmx)
+[![VK](https://img.shields.io/badge/-vkontakte-00bbb8?style=for-the-badge&logo=vk&logoColor=0d1117)](https://vk.com/kennyfmx)
 
 <h2 align="center" style="color: #00bbb8">If you liked ❤️ my profile, then you can put a star ⭐ and subscribe to my updates. <br> see ya! 
   <img src="assets/images/wave-hand.gif" alt="shake hand" width="30">

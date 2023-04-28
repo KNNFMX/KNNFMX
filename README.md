@@ -52,22 +52,22 @@ Main stack:
 
 <p align="center">
   <a href="assets/CV-2023n.pdf" style="cursor: pointer">
-    <img  width="170" src="assets/images/CV-2023n.jpg" alt="CV preview">
+    <img width="170" src="assets/images/CV-2023n.jpg" alt="CV preview">
   </a>
 </p>
 
 
 <p>📄 Current CV is available for
-  <a href="https://github.com/knnfmx/knnfmx/raw/9c3e9cc43a0365ea514e6bc8a34aa61eb0c8b837/assets/CV-2023n.pdf" download style="color: #00bbb8"> download</a>
+  <a href="https://github.com/knnfmx/knnfmx/raw/9c3e9cc43a0365ea514e6bc8a34aa61eb0c8b837/assets/CV-2023n.pdf" download color: # 00bbb8> download</a>
 </p> 
 
 <p>📧 E-mail:
-  <a href="mailto:fmxhighlife@gmail.com" style="color: #00bbb8">fmxhighlife@gmail.com</a>
+  <a href="mailto:fmxhighlife@gmail.com" color: # 00bbb8>fmxhighlife@gmail.com</a>
 </p>
 
 ## Additional Info
 <details>
-  <summary style="color: #00bbb8"> 💡 Working on </summary>
+  <summary color: # 00bbb8> 💡 Working on </summary>
   <br>
   <p align="center">
     <a href="https://github.com/knnfmx/south-park-phone-destroyer">
@@ -78,7 +78,7 @@ Main stack:
 
 
 <details>
-  <summary style="color: #00bbb8"> &#x1f4c8; GitHub Stats </summary>
+  <summary color: # 00bbb8> &#x1f4c8; GitHub Stats </summary>
   <br>
   <p align="center">
     <a href="https://github.com/knnfmx">

@@ -50,8 +50,15 @@ Main stack:
 
 ## I will be glad to offers for new experience:
 
+<p align="center">
+  <a href="assets/CV-2023n.pdf" style="cursor: pointer">
+    <img  width="170" src="assets/images/CV-2023n.jpg" alt="CV preview">
+  </a>
+</p>
+
+
 <p>📄 Current CV is available for
-  <a href="assets/CV-2023n.pdf" download style="color: #00bbb8"> download</a>
+  <a href="https://github.com/knnfmx/knnfmx/raw/9c3e9cc43a0365ea514e6bc8a34aa61eb0c8b837/assets/CV-2023n.pdf" download style="color: #00bbb8"> download</a>
 </p> 
 
 <p>📧 E-mail:
